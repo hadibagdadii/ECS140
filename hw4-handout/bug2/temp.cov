@@ -1,0 +1,5 @@
+mode: set
+hw1/bug2/bug2.go:26.51,28.25 2 1
+hw1/bug2/bug2.go:28.25,30.18 2 1
+hw1/bug2/bug2.go:30.18,33.4 2 1
+hw1/bug2/bug2.go:35.2,36.12 2 1
